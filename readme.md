@@ -1,0 +1,1 @@
+testing rust with wasm
